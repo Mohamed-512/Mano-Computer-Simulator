@@ -8,5 +8,4 @@ Each circuit or module has special layout, which can be viewed and modified. The
 ![screenshots](./Screenshot1.jpg)
 ![screenshots](./Screenshot2.jpg)
 
-
 ***The RTL used was based on "Computer System Architecture" book***
